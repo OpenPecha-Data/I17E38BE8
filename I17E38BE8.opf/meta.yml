@@ -1,0 +1,39 @@
+id: I17E38BE8
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T14:07:56.517080'
+last_modified: '2022-06-19T14:07:56.517090'
+parser: null
+source_metadata:
+  title: Padma dkar pos (1527–1592) Religious History of the Brug pa bKa brgyud Sect
+  author: འབྲུག་ཆེན་པདྨ་དཀར་པོ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-05-10);
+    pagination of recto folios only; converted from external file, unrevised, no thematic
+    TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Dharma Downloads, Karma Lekshey Ling Institute (Kathmandu, Swoyambhu)
+    (dd)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/508
+  bases:
+    17ef:
+      title: Padma dkar pos (1527–1592) Religious History of the Brug pa bKa brgyud
+        Sect
+      order: 1
+      base_file: 17ef.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
